@@ -1,12 +1,12 @@
 *{font-family: 'Montserrat', sans-serif;}
 .header-blue{
-    font-size: 1.5rem;
+    font-size: 2rem;
     border-radius: 5px;
-    padding-top:1rem;
+    padding-top:2rem;
     padding-bottom:1rem;
     padding-left:20px;
     font-weight: bold;
-    color: white;
+    color: rgba(0, 0, 0, 0.78);
     margin-top: 20px;
     display: block;
 }
@@ -16,6 +16,6 @@
     cursor: pointer;
 }
 .table-responsive{
-    border: 2px solid #0275d8;
-    border-radius: 5px;
+    border: 2px solid rgba(255, 33, 92, 0.59);
+    border-radius: 2px;
 }
